@@ -130,7 +130,7 @@ class StudentGUIQt(QMainWindow):
         left_layout = QVBoxLayout()
         
         # Enrollment section
-        enroll_label = QLabel("✍️ Enrollment (Optional)")
+        enroll_label = QLabel("✍️ Enrollment")
         enroll_label.setFont(QFont("Segoe UI", 12, QFont.Weight.Bold))
         enroll_label.setStyleSheet("color: #00d9ff;")
         left_layout.addWidget(enroll_label)

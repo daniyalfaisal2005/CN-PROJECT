@@ -1,0 +1,90 @@
+2025-12-02 12:28:49 - StudentGUI-PyQt6-student_3 - INFO - Student student_3 registered in system
+2025-12-02 12:28:49 - StudentEntry - INFO - ✓ Started PyQt6 student GUI for student_2
+2025-12-02 12:28:50 - StudentGUI-PyQt6-student_3 - DEBUG - Waiting for phase file: C:\Users\Lenovo\AppData\Local\Temp\election_phase_55108.txt
+2025-12-02 12:28:51 - StudentGUI-PyQt6-student_1 - DEBUG - Waiting for phase file: C:\Users\Lenovo\AppData\Local\Temp\election_phase_55108.txt
+2025-12-02 12:28:52 - StudentGUI-PyQt6-student_2 - DEBUG - Waiting for phase file: C:\Users\Lenovo\AppData\Local\Temp\election_phase_55108.txt
+2025-12-02 12:28:53 - StudentGUI-PyQt6-student_3 - DEBUG - Waiting for phase file: C:\Users\Lenovo\AppData\Local\Temp\election_phase_55108.txt
+2025-12-02 12:28:54 - StudentGUI-PyQt6-student_2 - DEBUG - Heartbeat sent
+2025-12-02 12:28:54 - StudentGUI-PyQt6-student_2 - DEBUG - Waiting for phase file: C:\Users\Lenovo\AppData\Local\Temp\election_phase_55108.txt
+2025-12-02 12:28:55 - StudentGUI-PyQt6-student_1 - DEBUG - Waiting for phase file: C:\Users\Lenovo\AppData\Local\Temp\election_phase_55108.txt
+2025-12-02 12:28:56 - StudentGUI-PyQt6-student_1 - DEBUG - Waiting for phase file: C:\Users\Lenovo\AppData\Local\Temp\election_phase_55108.txt
+2025-12-02 12:28:57 - StudentGUI-PyQt6-student_2 - DEBUG - Waiting for phase file: C:\Users\Lenovo\AppData\Local\Temp\election_phase_55108.txt
+2025-12-02 12:28:58 - StudentGUI-PyQt6-student_2 - DEBUG - Waiting for phase file: C:\Users\Lenovo\AppData\Local\Temp\election_phase_55108.txt
+2025-12-02 12:28:59 - StudentGUI-PyQt6-student_3 - DEBUG - Heartbeat sent
+2025-12-02 12:28:59 - StudentGUI-PyQt6-student_1 - DEBUG - Waiting for phase file: C:\Users\Lenovo\AppData\Local\Temp\election_phase_55108.txt
+2025-12-02 12:29:00 - StudentGUI-PyQt6-student_2 - DEBUG - Waiting for phase file: C:\Users\Lenovo\AppData\Local\Temp\election_phase_55108.txt
+2025-12-02 12:29:01 - StudentGUI-PyQt6-student_3 - DEBUG - Waiting for phase file: C:\Users\Lenovo\AppData\Local\Temp\election_phase_55108.txt
+2025-12-02 12:29:02 - StudentGUI-PyQt6-student_2 - DEBUG - Waiting for phase file: C:\Users\Lenovo\AppData\Local\Temp\election_phase_55108.txt
+2025-12-02 12:29:03 - StudentGUI-PyQt6-student_1 - DEBUG - Waiting for phase file: C:\Users\Lenovo\AppData\Local\Temp\election_phase_55108.txt
+2025-12-02 12:29:04 - StudentGUI-PyQt6-student_3 - DEBUG - Heartbeat sent
+2025-12-02 12:29:04 - StudentGUI-PyQt6-student_2 - DEBUG - Waiting for phase file: C:\Use2025-12-02 12:29:07 - TeacherGUI-PyQt6 - INFO - RIP: Broadcast routing table (1 known routes)
+2025-12-02 12:29:07 - TeacherGUI-PyQt6 - INFO - Active peers: 4 - student_3(3.5s), student_1(3.5s), student_2(3.5s), teacher(5.0s)
+2025-12-02 12:29:07 - TeacherGUI-PyQt6 - DEBUG - Heartbeat sent
+2025-12-02 12:29:12 - TeacherGUI-PyQt6 - INFO - Active peers: 4 - student_1(3.4s), student_3(3.4s), student_2(3.4s), teacher(5.0s)
+2025-12-02 12:29:12 - TeacherGUI-PyQt6 - DEBUG - Heartbeat sent
+2025-12-02 12:29:17 - TeacherGUI-PyQt6 - INFO - Active peers: 4 - student_3(3.4s), student_2(3.4s), student_1(3.4s), teacher(5.0s)
+2025-12-02 12:29:17 - TeacherGUI-PyQt6 - DEBUG - Heartbeat sent
+2025-12-02 12:29:22 - TeacherGUI-PyQt6 - INFO - RIP: Routing table updated (4 routes now known)
+2025-12-02 12:29:22 - TeacherGUI-PyQt6 - INFO - Active peers: 4 - student_2(3.4s), student_1(3.4s), student_3(3.4s), teacher(5.0s)
+2025-12-02 12:29:22 - TeacherGUI-PyQt6 - DEBUG - Heartbeat sent
+2025-12-02 12:29:23 - TeacherGUI-PyQt6 - INFO - ✓ Broadcasted phase 'enrollment' to students
+2025-12-02 12:29:27 - TeacherGUI-PyQt6 - INFO - Active peers: 4 - student_1(3.4s), student_2(3.4s), student_3(3.4s), teacher(5.0s)
+2025-12-02 12:29:27 - TeacherGUI-PyQt6 - DEBUG - Heartbeat sent
+2025-12-02 12:29:29 - TeacherGUI-PyQt6 - INFO - Enrollment updated: 1 students - {'student_3'}
+2025-12-02 12:29:33 - TeacherGUI-PyQt6 - INFO - Active peers: 4 - student_1(3.5s), student_2(3.5s), student_3(3.5s), teacher(5.0s)
+2025-12-02 12:29:33 - TeacherGUI-PyQt6 - DEBUG - Heartbeat sent
+2025-12-02 12:29:33 - TeacherGUI-PyQt6 - INFO - ✓ Broadcasted phase 'voting' to students
+2025-12-02 12:29:37 - TeacherGUI-PyQt6 - INFO - RIP: Broadcast routing table (4 known routes)
+2025-12-02 12:29:38 - TeacherGUI-PyQt6 - INFO - Active peers: 4 - student_3(3.3s), student_1(3.5s), student_2(3.5s), teacher(5.0s)
+2025-12-02 12:29:38 - TeacherGUI-PyQt6 - DEBUG - Heartbeat sent
+2025-12-02 12:29:43 - TeacherGUI-PyQt6 - INFO - Active peers: 4 - student_2(3.5s), student_1(3.5s), student_3(3.5s), teacher(5.0s)
+2025-12-02 12:29:43 - TeacherGUI-PyQt6 - DEBUG - Heartbeat sent
+2025-12-02 12:29:44 - TeacherGUI-PyQt6 - INFO - ✓ Broadcasted phase 'ended' to students
+2025-12-02 12:29:44 - TeacherGUI-PyQt6 - INFO - ✓ No votes cast - Auto-selected first enrolled student: student_3 (msg_id: 6a7ac293)
+2025-12-02 12:29:44 - TeacherGUI-PyQt6 - INFO - ✓ Broadcasted CR selection: student_3
+2025-12-02 12:29:48 - TeacherGUI-PyQt6 - INFO - Active peers: 4 - student_1(3.5s), student_2(3.5s), student_3(3.5s), teacher(5.0s)
+2025-12-02 12:29:48 - TeacherGUI-PyQt6 - DEBUG - Heartbeat sent
+2025-12-02 12:29:53 - TeacherGUI-PyQt6 - INFO - Active peers: 4 - student_2(3.5s), student_1(3.5s), student_3(3.5s), teacher(5.0s)
+2025-12-02 12:29:53 - TeacherGUI-PyQt6 - DEBUG - Heartbeat sent
+2025-12-02 12:29:54 - TeacherGUI-PyQt6 - INFO - Teacher GUI closing - terminating all student processes...
+2025-12-02 12:29:54 - TeacherGUI-PyQt6 - INFO - Terminated student process 1
+2025-12-02 12:29:54 - TeacherGUI-PyQt6 - INFO - Terminated student process 2
+2025-12-02 12:29:54 - TeacherGUI-PyQt6 - INFO - Terminated student process 3
+2025-12-02 12:29:54 - TeacherGUI-PyQt6 - WARNING - [student_1 ERR] 2025-12-02 12:28:49 - StudentGUI-PyQt6-student_1 - INFO - Student student_1 registered in system
+2025-12-02 12:29:54 - TeacherGUI-PyQt6 - INFO - All 3 student processes terminated
+2025-12-02 12:29:54 - TeacherGUI-PyQt6 - WARNING - [student_1 ERR] 2025-12-02 12:28:49 - StudentEntry - INFO - \u2713 Started PyQt6 student GUI for student_1
+2025-12-02 12:29:54 - TeacherGUI-PyQt6 - WARNING - [student_1 ERR] 2025-12-02 12:29:23 - StudentGUI-PyQt6-student_1 - INFO - \u2713 Received phase update: enrollment
+2025-12-02 12:29:54 - TeacherGUI-PyQt6 - WARNING - [student_2 ERR] 2025-12-02 12:28:49 - StudentGUI-PyQt6-student_2 - INFO - Student student_2 registered in system
+2025-12-02 12:29:54 - TeacherGUI-PyQt6 - WARNING - [student_1 ERR] 2025-12-02 12:29:23 - StudentGUI-PyQt6-student_1 - INFO - Enrollment phase started - Enroll button enabled
+2025-12-02 12:29:54 - TeacherGUI-PyQt6 - WARNING - [student_2 ERR] 2025-12-02 12:28:49 - StudentEntry - INFO - \u2713 Started PyQt6 student GUI for student_2
+2025-12-02 12:29:54 - TeacherGUI-PyQt6 - WARNING - [student_1 ERR] 2025-12-02 12:29:29 - StudentGUI-PyQt6-student_1 - INFO - \u2713 Preloaded 1 candidates (before voting phase): ['student_3']
+2025-12-02 12:29:54 - TeacherGUI-PyQt6 - WARNING - [student_2 ERR] 2025-12-02 12:29:23 - StudentGUI-PyQt6-student_2 - INFO - \u2713 Received phase update: enrollment
+2025-12-02 12:29:54 - TeacherGUI-PyQt6 - WARNING - [student_1 ERR] 2025-12-02 12:29:33 - StudentGUI-PyQt6-student_1 - INFO - \u2713 Received phase update: voting
+2025-12-02 12:29:54 - TeacherGUI-PyQt6 - WARNING - [student_2 ERR] 2025-12-02 12:29:23 - StudentGUI-PyQt6-student_2 - INFO - Enrollment phase started - Enroll button enabled
+2025-12-02 12:29:54 - TeacherGUI-PyQt6 - WARNING - [student_1 ERR] 2025-12-02 12:29:33 - StudentGUI-PyQt6-student_1 - INFO - Loaded 1 enrolled candidates: ['student_3']
+2025-12-02 12:29:54 - TeacherGUI-PyQt6 - WARNING - [student_2 ERR] 2025-12-02 12:29:29 - StudentGUI-PyQt6-student_2 - INFO - \u2713 Preloaded 1 candidates (before voting phase): ['student_3']
+2025-12-02 12:29:54 - TeacherGUI-PyQt6 - WARNING - [student_3 ERR] 2025-12-02 12:28:49 - StudentGUI-PyQt6-student_3 - INFO - Student student_3 registered in system
+2025-12-02 12:29:54 - TeacherGUI-PyQt6 - WARNING - [student_1 ERR] 2025-12-02 12:29:33 - StudentGUI-PyQt6-student_1 - INFO - \u2713 Voting phase started - candidates loaded, vote_btn enabled: True
+2025-12-02 12:29:54 - TeacherGUI-PyQt6 - WARNING - [student_2 ERR] 2025-12-02 12:29:33 - StudentGUI-PyQt6-student_2 - INFO - \u2713 Received phase update: voting
+2025-12-02 12:29:54 - TeacherGUI-PyQt6 - WARNING - [student_3 ERR] 2025-12-02 12:28:49 - StudentEntry - INFO - \u2713 Started PyQt6 student GUI for student_3
+2025-12-02 12:29:54 - TeacherGUI-PyQt6 - WARNING - [student_1 ERR] 2025-12-02 12:29:44 - StudentGUI-PyQt6-student_1 - INFO - \u2713 Received phase update: ended
+2025-12-02 12:29:54 - TeacherGUI-PyQt6 - WARNING - [student_2 ERR] 2025-12-02 12:29:33 - StudentGUI-PyQt6-student_2 - INFO - Loaded 1 enrolled candidates: ['student_3']
+2025-12-02 12:29:54 - TeacherGUI-PyQt6 - WARNING - [student_3 ERR] 2025-12-02 12:29:23 - StudentGUI-PyQt6-student_3 - INFO - \u2713 Received phase update: enrollment
+2025-12-02 12:29:54 - TeacherGUI-PyQt6 - WARNING - [student_1 ERR] 2025-12-02 12:29:44 - StudentGUI-PyQt6-student_1 - INFO - Election ended - voting buttons locked
+2025-12-02 12:29:54 - TeacherGUI-PyQt6 - WARNING - [student_2 ERR] 2025-12-02 12:29:33 - StudentGUI-PyQt6-student_2 - INFO - \u2713 Voting phase started - candidates loaded, vote_btn enabled: True
+2025-12-02 12:29:54 - TeacherGUI-PyQt6 - WARNING - [student_3 ERR] 2025-12-02 12:29:23 - StudentGUI-PyQt6-student_3 - INFO - Enrollment phase started - Enroll button enabled
+2025-12-02 12:29:54 - TeacherGUI-PyQt6 - INFO - [student_1] Process ended (exit code: 1)
+2025-12-02 12:29:54 - TeacherGUI-PyQt6 - WARNING - [student_2 ERR] 2025-12-02 12:29:44 - StudentGUI-PyQt6-student_2 - INFO - \u2713 Received phase update: ended
+2025-12-02 12:29:54 - TeacherGUI-PyQt6 - WARNING - [student_3 ERR] 2025-12-02 12:29:29 - StudentGUI-PyQt6-student_3 - INFO - student_3 successfully enrolled
+2025-12-02 12:29:54 - TeacherGUI-PyQt6 - WARNING - [student_2 ERR] 2025-12-02 12:29:44 - StudentGUI-PyQt6-student_2 - INFO - Election ended - voting buttons locked
+2025-12-02 12:29:54 - TeacherGUI-PyQt6 - WARNING - [student_3 ERR] 2025-12-02 12:29:29 - StudentGUI-PyQt6-student_3 - INFO - Writing to enrollment file: C:\Users\Lenovo\AppData\Local\Temp\enrollments_55108.txt
+2025-12-02 12:29:54 - TeacherGUI-PyQt6 - INFO - [student_2] Process ended (exit code: 1)
+2025-12-02 12:29:54 - TeacherGUI-PyQt6 - WARNING - [student_3 ERR] 2025-12-02 12:29:29 - StudentGUI-PyQt6-student_3 - INFO - Added student_3 to enrollments
+2025-12-02 12:29:54 - TeacherGUI-PyQt6 - WARNING - [student_3 ERR] 2025-12-02 12:29:29 - StudentGUI-PyQt6-student_3 - INFO - Successfully wrote enrollment file. Total enrolled: 1
+2025-12-02 12:29:54 - TeacherGUI-PyQt6 - WARNING - [student_3 ERR] 2025-12-02 12:29:29 - StudentGUI-PyQt6-student_3 - INFO - \u2713 Preloaded 1 candidates (before voting phase): ['student_3']
+2025-12-02 12:29:54 - TeacherGUI-PyQt6 - WARNING - [student_3 ERR] 2025-12-02 12:29:33 - StudentGUI-PyQt6-student_3 - INFO - \u2713 Received phase update: voting
+2025-12-02 12:29:54 - TeacherGUI-PyQt6 - WARNING - [student_3 ERR] 2025-12-02 12:29:33 - StudentGUI-PyQt6-student_3 - INFO - Loaded 1 enrolled candidates: ['student_3']
+2025-12-02 12:29:54 - TeacherGUI-PyQt6 - WARNING - [student_3 ERR] 2025-12-02 12:29:33 - StudentGUI-PyQt6-student_3 - INFO - \u2713 Voting phase started - candidates loaded, vote_btn enabled: True
+2025-12-02 12:29:54 - TeacherGUI-PyQt6 - WARNING - [student_3 ERR] 2025-12-02 12:29:44 - StudentGUI-PyQt6-student_3 - INFO - \u2713 Received phase update: ended
+2025-12-02 12:29:54 - TeacherGUI-PyQt6 - WARNING - [student_3 ERR] 2025-12-02 12:29:44 - StudentGUI-PyQt6-student_3 - INFO - Election ended - voting buttons locked
+2025-12-02 12:29:54 - TeacherGUI-PyQt6 - INFO - [student_3] Process ended (exit code: 1)
